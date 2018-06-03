@@ -11,3 +11,4 @@ wget http://central.maven.org/maven2/commons-codec/commons-codec/1.11/commons-co
 wget http://central.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.3/httpasyncclient-4.1.3.jar
 wget http://central.maven.org/maven2/org/apache/httpcomponents/httpmime/4.5.5/httpmime-4.5.5.jar
 wget http://central.maven.org/maven2/org/json/json/20180130/json-20180130.jar
+wget http://central.maven.org/maven2/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar
