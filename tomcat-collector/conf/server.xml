@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server port="3006" shutdown="SHUTDOWN">
+
+	<Listener className="com.angkorteam.tomcat.CollectorListener"
+		activemqServer="tcp://localhost:61616" activemqChannel="stateChannel" />
+
+</Server>
