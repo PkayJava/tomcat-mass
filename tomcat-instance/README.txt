@@ -1,0 +1,13 @@
+wget http://central.maven.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar
+wget http://central.maven.org/maven2/org/apache/activemq/activemq-client/5.15.4/activemq-client-5.15.4.jar
+wget http://central.maven.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar
+wget http://central.maven.org/maven2/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/geronimo-jms_1.1_spec-1.1.1.jar
+wget http://central.maven.org/maven2/org/apache/geronimo/specs/geronimo-j2ee-management_1.1_spec/1.0.1/geronimo-j2ee-management_1.1_spec-1.0.1.jar
+wget http://central.maven.org/maven2/org/fusesource/hawtbuf/hawtbuf/1.11/hawtbuf-1.11.jar
+wget http://central.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+wget http://central.maven.org/maven2/io/github/openunirest/unirest-java/2.2.03/unirest-java-2.2.03.jar
+wget http://central.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar
+wget http://central.maven.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+wget http://central.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.3/httpasyncclient-4.1.3.jar
+wget http://central.maven.org/maven2/org/apache/httpcomponents/httpmime/4.5.5/httpmime-4.5.5.jar
+wget http://central.maven.org/maven2/org/json/json/20180130/json-20180130.jar
